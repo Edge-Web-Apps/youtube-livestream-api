@@ -1,5 +1,5 @@
 {
-    "name": "sahusoftcom/youtube-livestream-api",
+    "name": "edgewebapps/youtube-livestream-api",
     "description": "PHP (Laravel) Package for Google / YouTube API of Video Live Streaming with Google Auth",
     "keywords": ["google-api", "youtube-api", "live-streaming", "livestreaming", "laravel", "youtube-api-v3", "google-sdk"],
     "homepage": "https://github.com/sahusoftcom/youtube-livestream-api",
